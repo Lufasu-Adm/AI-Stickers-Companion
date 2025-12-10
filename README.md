@@ -31,7 +31,7 @@ Untuk menjalankan proyek ini, pastikan Anda telah menginstal:
 1. **Kloning Repositori**
 
 ```bash
-git clone https://www.youtube.com/watch?v=aT5XQwZ_De8
+https://github.com/Lufasu-Adm/AI-Stickers-Companion.git
 cd ai_companion_app
 ```
 
