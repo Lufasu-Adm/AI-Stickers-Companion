@@ -2,8 +2,6 @@
 
 Aplikasi companion berbasis chat yang memanfaatkan Large Language Model (LLM) untuk interaksi emosional. Karakter companion Ruphas bereaksi secara visual menggunakan stiker 2D berdasarkan analisis mood pengguna.
 
----
-
 ## ✨ Fitur Utama
 
 * **Integrasi LLM Service (Dio):** Mengirimkan dan menerima respons dari LLM eksternal (menggunakan Dio untuk HTTP request).
@@ -72,6 +70,17 @@ assets/3d/stikcers/
 ```
 
 Berisi semua file `.png` ekspresi (bingung.png, tertawa.png, dll.).
+
+---
+
+## 🖼️ Screenshot Aplikasi
+
+Masukkan link gambar Anda di sini:
+
+```
+![Screenshot 1](LINK_GAMBAR_1)
+![Screenshot 2](LINK_GAMBAR_2)
+```
 
 ---
 
