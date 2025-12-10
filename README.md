@@ -77,7 +77,7 @@ Berisi semua file `.png` ekspresi (bingung.png, tertawa.png, dll.).
 
 | Home Screen |
 |:---:|
-| <img src="assets/home.png" width="200" alt="Home"> | 
+| <img src="https://github.com/Lufasu-Adm/AI-Stickers-Companion/blob/main/assets/home.png" width="200" alt="Home"> | 
 
 ```
 
