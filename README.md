@@ -66,7 +66,7 @@ Avatar companion Ruphas menggunakan stiker 2D untuk reaksi cepat. Semua stiker d
 **Folder**
 
 ```
-assets/3d/stikcers/
+assets/stikcers/
 ```
 
 Berisi semua file `.png` ekspresi (bingung.png, tertawa.png, dll.).
