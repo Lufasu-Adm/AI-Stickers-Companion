@@ -75,11 +75,10 @@ Berisi semua file `.png` ekspresi (bingung.png, tertawa.png, dll.).
 
 ## 🖼️ Screenshot Aplikasi
 
-Masukkan link gambar Anda di sini:
+| Home Screen |
+|:---:|
+| <img src="assets/home.png" width="200" alt="Home"> | 
 
-```
-![Screenshot 1](LINK_GAMBAR_1)
-![Screenshot 2](LINK_GAMBAR_2)
 ```
 
 ---
