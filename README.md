@@ -30,7 +30,7 @@ Untuk menjalankan proyek ini, pastikan Anda telah menginstal:
 
 ```bash
 https://github.com/Lufasu-Adm/AI-Stickers-Companion.git
-cd ai_companion_app
+cd AI-Stickers-Companion
 ```
 
 2. **Dapatkan Dependencies**
